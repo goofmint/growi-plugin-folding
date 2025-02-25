@@ -1,7 +1,7 @@
 {
-  "name": "growi-plugin-script-template",
+  "name": "growi-plugin-folding",
   "version": "1.0.0",
-  "description": "GROWI plugin template for script",
+  "description": "GROWI Folding plugin",
   "license": "MIT",
   "keywords": [
     "growi",
